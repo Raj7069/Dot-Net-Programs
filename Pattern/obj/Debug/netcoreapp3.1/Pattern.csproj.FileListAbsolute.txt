@@ -1,0 +1,10 @@
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+E:\Git Repository\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
