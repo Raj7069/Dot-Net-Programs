@@ -1,0 +1,4 @@
+C:\Dexter\DotNetPracticals\DotNetPracticals\Re\bin\Debug\Re.exe
+C:\Dexter\DotNetPracticals\DotNetPracticals\Re\bin\Debug\Re.pdb
+C:\Dexter\DotNetPracticals\DotNetPracticals\Re\obj\x86\Debug\Re.exe
+C:\Dexter\DotNetPracticals\DotNetPracticals\Re\obj\x86\Debug\Re.pdb
