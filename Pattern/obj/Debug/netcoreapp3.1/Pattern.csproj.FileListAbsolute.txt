@@ -8,3 +8,4 @@ E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cac
 E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
 E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
 E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+E:\Git Repository\Pattern\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache

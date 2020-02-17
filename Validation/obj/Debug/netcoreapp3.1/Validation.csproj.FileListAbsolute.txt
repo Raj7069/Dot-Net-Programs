@@ -1,0 +1,11 @@
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.exe
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.deps.json
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.json
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.dev.json
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.dll
+E:\Git Repository\Validation\bin\Debug\netcoreapp3.1\Validation.pdb
+E:\Git Repository\Validation\obj\Debug\netcoreapp3.1\Validation.csprojAssemblyReference.cache
+E:\Git Repository\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfoInputs.cache
+E:\Git Repository\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfo.cs
+E:\Git Repository\Validation\obj\Debug\netcoreapp3.1\Validation.dll
+E:\Git Repository\Validation\obj\Debug\netcoreapp3.1\Validation.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git Repository\\HelloWord\\HelloWord.csproj": {}
+    "E:\\Git Repository\\Validation\\Validation.csproj": {}
   },
   "projects": {
-    "E:\\Git Repository\\HelloWord\\HelloWord.csproj": {
+    "E:\\Git Repository\\Validation\\Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git Repository\\HelloWord\\HelloWord.csproj",
-        "projectName": "HelloWord",
-        "projectPath": "E:\\Git Repository\\HelloWord\\HelloWord.csproj",
+        "projectUniqueName": "E:\\Git Repository\\Validation\\Validation.csproj",
+        "projectName": "Validation",
+        "projectPath": "E:\\Git Repository\\Validation\\Validation.csproj",
         "packagesPath": "C:\\Users\\RAJ\\.nuget\\packages\\",
-        "outputPath": "E:\\Git Repository\\HelloWord\\obj\\",
+        "outputPath": "E:\\Git Repository\\Validation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
