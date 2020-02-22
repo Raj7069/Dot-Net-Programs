@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern", "E:\Git Repositor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{3556C59B-C059-4C4A-9075-7039B3CCFBC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{28463879-7154-4287-8178-7FF94C202E9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validation", "Validation\Validation.csproj", "{28463879-7154-4287-8178-7FF94C202E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Conversion\Conversion.csproj", "{1AE47BC5-19D2-442A-98C5-718474748340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{28463879-7154-4287-8178-7FF94C202E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28463879-7154-4287-8178-7FF94C202E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28463879-7154-4287-8178-7FF94C202E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE47BC5-19D2-442A-98C5-718474748340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE47BC5-19D2-442A-98C5-718474748340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE47BC5-19D2-442A-98C5-718474748340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE47BC5-19D2-442A-98C5-718474748340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+E:\Git Repository\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+E:\Git Repository\Conversion\obj\Debug\netcoreapp3.1\Conversion.csprojAssemblyReference.cache
+E:\Git Repository\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+E:\Git Repository\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+E:\Git Repository\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+E:\Git Repository\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
