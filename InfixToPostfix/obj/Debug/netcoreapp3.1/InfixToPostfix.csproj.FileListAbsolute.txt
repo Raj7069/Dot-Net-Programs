@@ -1,0 +1,10 @@
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.exe
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.deps.json
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.runtimeconfig.json
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.runtimeconfig.dev.json
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.dll
+E:\Git Repository\InfixToPostfix\bin\Debug\netcoreapp3.1\InfixToPostfix.pdb
+E:\Git Repository\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.AssemblyInfoInputs.cache
+E:\Git Repository\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.AssemblyInfo.cs
+E:\Git Repository\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.dll
+E:\Git Repository\InfixToPostfix\obj\Debug\netcoreapp3.1\InfixToPostfix.pdb
