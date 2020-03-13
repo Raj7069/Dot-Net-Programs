@@ -1,0 +1,6 @@
+E:\Git Repository\SaparateAndPrint\bin\Debug\SaparateAndPrint.exe.config
+E:\Git Repository\SaparateAndPrint\bin\Debug\SaparateAndPrint.exe
+E:\Git Repository\SaparateAndPrint\bin\Debug\SaparateAndPrint.pdb
+E:\Git Repository\SaparateAndPrint\obj\Debug\SaparateAndPrint.exe
+E:\Git Repository\SaparateAndPrint\obj\Debug\SaparateAndPrint.pdb
+E:\Git Repository\SaparateAndPrint\obj\Debug\SaparateAndPrint.csprojAssemblyReference.cache
