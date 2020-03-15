@@ -1,0 +1,6 @@
+E:\Git Repository\TemperatureConversion\bin\Release\TemperatureConversion.exe.config
+E:\Git Repository\TemperatureConversion\bin\Release\TemperatureConversion.exe
+E:\Git Repository\TemperatureConversion\bin\Release\TemperatureConversion.pdb
+E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.csprojAssemblyReference.cache
+E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.exe
+E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.pdb
