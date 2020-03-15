@@ -1,0 +1,6 @@
+E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.csprojAssemblyReference.cache
+E:\Git Repository\CurrencyConvertor\bin\Release\CurrencyConvertor.exe.config
+E:\Git Repository\CurrencyConvertor\bin\Release\CurrencyConvertor.exe
+E:\Git Repository\CurrencyConvertor\bin\Release\CurrencyConvertor.pdb
+E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.exe
+E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.pdb
