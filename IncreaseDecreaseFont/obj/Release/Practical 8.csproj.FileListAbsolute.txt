@@ -1,0 +1,4 @@
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.Properties.Resources.resources
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\Practical 8.csproj.GenerateResource.cache
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.exe
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.pdb

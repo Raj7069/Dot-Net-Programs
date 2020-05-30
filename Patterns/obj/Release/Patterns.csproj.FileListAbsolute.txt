@@ -1,0 +1,6 @@
+E:\Git Repository\Patterns\bin\Release\Patterns.exe.config
+E:\Git Repository\Patterns\bin\Release\Patterns.exe
+E:\Git Repository\Patterns\bin\Release\Patterns.pdb
+E:\Git Repository\Patterns\obj\Release\Patterns.csprojAssemblyReference.cache
+E:\Git Repository\Patterns\obj\Release\Patterns.exe
+E:\Git Repository\Patterns\obj\Release\Patterns.pdb

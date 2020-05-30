@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CurrencyConvertor
 {
@@ -17,6 +13,7 @@ namespace CurrencyConvertor
             Console.WriteLine("You enter amount:- " + currency + '\u20B9' + " and equivalent output is:- " + currency / 0.68 + '\u00A5');
             Console.WriteLine("You enter amount:- " + currency + '\u20B9' + " and equivalent output is:- " + currency / 82.84 + '\u20AC');
             Console.ReadKey();
+            Console.Read();
         }
     }
 }

@@ -1,0 +1,6 @@
+E:\Git Repository\SaparateAndPoint\bin\Release\SaparateAndPoint.exe.config
+E:\Git Repository\SaparateAndPoint\bin\Release\SaparateAndPoint.exe
+E:\Git Repository\SaparateAndPoint\bin\Release\SaparateAndPoint.pdb
+E:\Git Repository\SaparateAndPoint\obj\Release\SaparateAndPoint.csprojAssemblyReference.cache
+E:\Git Repository\SaparateAndPoint\obj\Release\SaparateAndPoint.exe
+E:\Git Repository\SaparateAndPoint\obj\Release\SaparateAndPoint.pdb

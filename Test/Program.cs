@@ -1,44 +1,29 @@
-﻿using System;
+﻿using System.IO;
+using System;
+using MySql.Data.MySqlClient;
 
-namespace Test
+
+class Program
 {
-    class Shape
+    public static void Main(string[] args)
     {
-        public void setWidth(int w)
+        MySqlConnection con = new MySqlConnection();
+        con = new MySqlConnection("Data Source= 'localhost'; Initial Catalog='ecommerce'; uid='root'; password=''");
+        try
         {
-            width = w;
+            con.Open();
         }
-        public void setHeight(int h)
+        catch(MySqlException e)
         {
-            height = h;
+            Console.WriteLine(e);
         }
-        protected int width;
-        protected int height;
-    }
-    class Ractangle : Shape
-    {
-        public int getArea()
+        string query = "select * from demo";
+        MySqlCommand cmd = new MySqlCommand(query, con);
+        MySqlDataReader reader = cmd.ExecuteReader();
+        while (reader.Read())
         {
-            return (width * height);
-        }
-    }
-    
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Ractangle r = new Ractangle();
-            r.setHeight(5);
-            r.setWidth(6);
-            Console.WriteLine(r.getArea());
-            Console.ReadKey();
-            int x = 42;
-            int y = 12;
-            int w;
-            object o;
-            o = x;
-            w = y * (int)o;
-            Console.WriteLine(w);
+            string name = (reader[0]).ToString();
         }
     }
 }
+

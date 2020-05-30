@@ -1,0 +1,9 @@
+E:\Git Repository\IncreaseDecreaseFont\bin\Release\IncreaseDecreaseFont.exe.config
+E:\Git Repository\IncreaseDecreaseFont\bin\Release\IncreaseDecreaseFont.exe
+E:\Git Repository\IncreaseDecreaseFont\bin\Release\IncreaseDecreaseFont.pdb
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.csprojAssemblyReference.cache
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.Properties.Resources.resources
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.csproj.GenerateResource.cache
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.exe
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.pdb
+E:\Git Repository\IncreaseDecreaseFont\obj\Release\IncreaseDecreaseFont.Form1.resources

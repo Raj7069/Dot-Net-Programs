@@ -4,3 +4,12 @@ E:\Git Repository\CurrencyConvertor\bin\Release\CurrencyConvertor.exe
 E:\Git Repository\CurrencyConvertor\bin\Release\CurrencyConvertor.pdb
 E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.exe
 E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.pdb
+E:\Git Repository\CurrencyConvertor\bin\Release\BouncyCastle.Crypto.dll
+E:\Git Repository\CurrencyConvertor\bin\Release\Google.Protobuf.dll
+E:\Git Repository\CurrencyConvertor\bin\Release\MySql.Data.dll
+E:\Git Repository\CurrencyConvertor\bin\Release\Renci.SshNet.dll
+E:\Git Repository\CurrencyConvertor\bin\Release\Ubiety.Dns.Core.dll
+E:\Git Repository\CurrencyConvertor\bin\Release\Google.Protobuf.xml
+E:\Git Repository\CurrencyConvertor\bin\Release\MySql.Data.xml
+E:\Git Repository\CurrencyConvertor\bin\Release\Renci.SshNet.xml
+E:\Git Repository\CurrencyConvertor\obj\Release\CurrencyConvertor.csproj.CopyComplete

@@ -4,3 +4,12 @@ E:\Git Repository\TemperatureConversion\bin\Release\TemperatureConversion.pdb
 E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.csprojAssemblyReference.cache
 E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.exe
 E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.pdb
+E:\Git Repository\TemperatureConversion\bin\Release\BouncyCastle.Crypto.dll
+E:\Git Repository\TemperatureConversion\bin\Release\Google.Protobuf.dll
+E:\Git Repository\TemperatureConversion\bin\Release\MySql.Data.dll
+E:\Git Repository\TemperatureConversion\bin\Release\Renci.SshNet.dll
+E:\Git Repository\TemperatureConversion\bin\Release\Ubiety.Dns.Core.dll
+E:\Git Repository\TemperatureConversion\bin\Release\Google.Protobuf.xml
+E:\Git Repository\TemperatureConversion\bin\Release\MySql.Data.xml
+E:\Git Repository\TemperatureConversion\bin\Release\Renci.SshNet.xml
+E:\Git Repository\TemperatureConversion\obj\Release\TemperatureConversion.csproj.CopyComplete

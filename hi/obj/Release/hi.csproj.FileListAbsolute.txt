@@ -1,0 +1,6 @@
+E:\Git Repository\hi\bin\Release\hi.exe.config
+E:\Git Repository\hi\bin\Release\hi.exe
+E:\Git Repository\hi\bin\Release\hi.pdb
+E:\Git Repository\hi\obj\Release\hi.csprojAssemblyReference.cache
+E:\Git Repository\hi\obj\Release\hi.exe
+E:\Git Repository\hi\obj\Release\hi.pdb
